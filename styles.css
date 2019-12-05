@@ -74,6 +74,7 @@ p {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 75ch;
+  
 }
 .page-nav {
  
