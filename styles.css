@@ -76,7 +76,8 @@ p {
   
 }
 .page-nav {
- 
+ position:absolute;
+ left: 0px;
 }
 
   .page-nav ul {
