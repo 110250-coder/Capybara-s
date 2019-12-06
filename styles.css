@@ -47,6 +47,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
+   width:800px;
 }
 
 
@@ -100,3 +101,7 @@ p {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+	  img{ 
+	   float:right;
+	   margin: 5px;
+	  }
